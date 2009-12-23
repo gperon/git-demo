@@ -4,7 +4,7 @@
     <groupId>org.gperon</groupId>
     <artifactId>git-demo</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>git-demo</name>
     <url>http://maven.apache.org</url>
     <scm>
